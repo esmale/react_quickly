@@ -23,3 +23,7 @@
 .btn.btn-primary + .btn.btn-primary {
   border-left: 1px solid white;
 }
+
+.row + .row {
+  margin-top: 15px;
+}

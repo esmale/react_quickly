@@ -1,0 +1,13 @@
+* Convert Timer to a stateless component implemented by a fat-arrow function
+* Implement a Pause/Resume button that stops/resumes the Timer
+* Implement a Cancel button that stops the countdown and hides the remaining time
+* Implement a Reset button that resets the time remaining to the original value (5/10/15 seconds)
+* Modify the final version of this project to use 5, 10, and 15 minutes rather than seconds
+* Decouple the <audio> tag in TimerWrapper from play() in Timer
+* Refactor the project to have four files with as much loose coupling as possible:
+  - timer.jsx
+  - timer-label.jsx
+  - timer-button.jsx
+  - timer-sound.jsx
+* Implement a slider button that changes with every time interval
+  - see chapter 6 for slider integration

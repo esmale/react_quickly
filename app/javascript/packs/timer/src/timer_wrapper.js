@@ -23,7 +23,6 @@ export default class TimerWrapper extends React.Component {
   }
 
   render() {
-    // <audio id="end-of-time" src="flute_c_long_01.wav" preload="auto"></audio>
     return (
       <div className="row-fluid">
         <div className="btn-group" role="group">
